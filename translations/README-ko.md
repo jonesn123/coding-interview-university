@@ -254,7 +254,7 @@
     - [ ] [접근법](https://www.youtube.com/watch?v=wCl9kvQGHPI)
     - [ ] [문제 풀이](https://www.youtube.com/watch?v=4UWDyJq8jZg)
 - [ ] 준비 코스:
-    - [ ] [소프트웨어 엔지니어 인터뷰 대공개 (유료 강좌)](https://www.udemy.com/software-engineer-interview-unleashed):
+    - [x] [소프트웨어 엔지니어 인터뷰 대공개 (유료 강좌)](https://www.udemy.com/software-engineer-interview-unleashed):
         - 전직 구글 면접관이 당신이 어떻게 소프트웨어 엔지니어 인터뷰를 준비해야 하는지 알려줍니다.
     - [ ] [자료 구조, 알고리즘 그리고 면접을 위한 파이썬! (유료 강좌)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - 자료 구조와 알고리즘, 모의 면접 등을 다루는 파이썬 중점 면접의 준비 강좌입니다.
