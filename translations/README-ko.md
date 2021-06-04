@@ -245,11 +245,11 @@
 - [x] [ABC: 항상 코딩 하라](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [x] [화이트 보드 쓰기](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
-- [ ] Big 4에 취업하는 방법:
-    - [ ] ['Big 4에 취업하는 방법 - Amazon, Facebook, Google & Microsoft' (영상)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [x] Big 4에 취업하는 방법:
+    - [x] ['Big 4에 취업하는 방법 - Amazon, Facebook, Google & Microsoft' (영상)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 - [ ] 코딩 인터뷰 정복 Set 1:
     - [ ] [Gayle L McDowell - 코딩 인터뷰 정복 (영상)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [저자와 함께하는 코딩 인터뷰 정복 (영상)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+    - [x] [저자와 함께하는 코딩 인터뷰 정복 (영상)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [ ] 페이스북 코딩 인터뷰 정복
     - [ ] [접근법](https://www.youtube.com/watch?v=wCl9kvQGHPI)
     - [ ] [문제 풀이](https://www.youtube.com/watch?v=4UWDyJq8jZg)
