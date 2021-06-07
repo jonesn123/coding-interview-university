@@ -620,7 +620,7 @@ Anki format의 내 flashcard 데이터베이스: https://ankiweb.net/shared/info
 ## 추가 지식
 
 - ### Binary search
-    - [ ] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
+    - [x] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
     - [ ] [자세한 내용](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
     - [ ] 구현:
