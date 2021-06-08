@@ -247,8 +247,8 @@
 - [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [x] Big 4에 취업하는 방법:
     - [x] ['Big 4에 취업하는 방법 - Amazon, Facebook, Google & Microsoft' (영상)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-- [ ] 코딩 인터뷰 정복 Set 1:
-    - [ ] [Gayle L McDowell - 코딩 인터뷰 정복 (영상)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+- [x] 코딩 인터뷰 정복 Set 1:
+    - [x] [Gayle L McDowell - 코딩 인터뷰 정복 (영상)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [x] [저자와 함께하는 코딩 인터뷰 정복 (영상)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [ ] 페이스북 코딩 인터뷰 정복
     - [ ] [접근법](https://www.youtube.com/watch?v=wCl9kvQGHPI)
