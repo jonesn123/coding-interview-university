@@ -472,7 +472,7 @@ Anki format의 내 flashcard 데이터베이스: https://ankiweb.net/shared/info
 - 구현할 것은 없다.
 - 여기에는 다양한 영상들이 있다. 이해할 때까지 충분히 보고 언제든지 다시 돌아와서 복습할 수 있다.
 - 일부 강의가 너무 수학적이라면, 아래로 가서 이산 수학에 대한 동영상을 보며 배경 지식을 쌓아보세요.
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
