@@ -298,7 +298,7 @@
     - C++ 과 JAVA 문제의 답변을 위해서
     - Cracking the Coding Interview 책을 위한 좋은 사전학습용 책이기 때문에
     - 어렵지 않고, 당신이 인터뷰에서 마주할 대부분의 문제들 보다 쉽기 때문에
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+- [x] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - JAVA 문제의 답변을 위해서
 
 ### 만일 당신이 많은 여유 시간이 있다면:
@@ -473,7 +473,7 @@ Anki format의 내 flashcard 데이터베이스: https://ankiweb.net/shared/info
 - 여기에는 다양한 영상들이 있다. 이해할 때까지 충분히 보고 언제든지 다시 돌아와서 복습할 수 있다.
 - 일부 강의가 너무 수학적이라면, 아래로 가서 이산 수학에 대한 동영상을 보며 배경 지식을 쌓아보세요.
 - [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [동영상](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
